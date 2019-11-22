@@ -4,4 +4,4 @@
 
 ***
 
-[^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+通过学习了三个速成的视频，分别为[Html速成](https://www.baidu.com/)、[CSS速成]()、[JavaScript速成]()。
