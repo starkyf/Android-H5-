@@ -4,4 +4,4 @@
 
 ***
 
-通过学习了三个速成的视频，分别为[Html速成](https://www.baidu.com/)、[CSS速成]()、[JavaScript速成]()。
+通过学习了三个速成的视频，分别为[Html速成](https://www.youtube.com/watch?v=nNFF_sib0Jc&t=7s)、[CSS速成](https://www.youtube.com/watch?v=laEqXy9cjs0)、[JavaScript速成](https://www.youtube.com/watch?v=hWmri8PbZUc&t=4041s)。
