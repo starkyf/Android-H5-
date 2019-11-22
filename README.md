@@ -5,3 +5,5 @@
 ***
 
 通过学习了三个速成的视频，分别为[Html速成](https://www.youtube.com/watch?v=nNFF_sib0Jc&t=7s)、[CSS速成](https://www.youtube.com/watch?v=laEqXy9cjs0)、[JavaScript速成](https://www.youtube.com/watch?v=hWmri8PbZUc&t=4041s)。
+
+我获得了一点心得（自以为的心得如果有问题请指正）。Android种有xml布局、style样式、java逻辑，前端的Html类似xml布局、CSS类似style样式、JavaScript类似Java逻辑
